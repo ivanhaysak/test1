@@ -36,7 +36,7 @@
 
 
 
-# p=float(input("price="))
+# p=float(input("price="))  #використовуйте функції
 # r1=p*1*12
 # r2=p*2*12
 # r3=p*10*12
